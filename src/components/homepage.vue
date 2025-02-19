@@ -5,7 +5,7 @@
     <v-carousel-item src="../public/martell.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/garden side.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/happy hour.jpg" cover> </v-carousel-item>
-    <v-carousel-item src="../public/loaded fries.jpg" cover> </v-carousel-item>
+    <v-carousel-item src="../public/cocktail.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/sitting area.jpg" cover> </v-carousel-item>
 </v-carousel>
 
@@ -16,7 +16,7 @@
             <v-row>
                 <v-col cols="12" md="4">
                     <v-card>
-                        <v-card color="yellow">
+                        <v-card color="teal-darken-4">
                             <v-card-item>
                                 <v-card-title>New Menu</v-card-title>
 
@@ -28,7 +28,7 @@
                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                             </v-card-text>
                         </v-card>
-                        <v-card color="yellow">
+                        <v-card color="teal-darken-4">
                             <v-card-item>
                             <v-card-title>Promotions</v-card-title>
 
@@ -46,7 +46,7 @@
 
                 <v-col cols="12" md="4">
                     <v-card>
-                    <v-card color="yellow">
+                    <v-card color="teal-darken-4">
                     <v-card-item>
                     <v-card-title>Upcoming Events</v-card-title>
 
@@ -58,7 +58,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                     </v-card-text>
                     </v-card>
-                    <v-card color="yellow">
+                    <v-card color="teal-darken-4">
                     <v-card-item>
                     <v-card-title>Upcoming Events</v-card-title>
 
@@ -76,7 +76,7 @@
 
                 <v-col cols="12" md="4">
                     <v-card>
-                        <v-card color="yellow">
+                        <v-card color="teal-darken-4">
                     <v-card-item>
                     <v-card-title>Promotions</v-card-title>
 
@@ -88,7 +88,7 @@
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi, ratione debitis quis est labore voluptatibus!
                     </v-card-text>
                         </v-card>
-                        <v-card color="yellow">
+                        <v-card color="teal-darken-4">
                     <v-card-item>
                     <v-card-title>Promotions</v-card-title>
 
@@ -111,4 +111,4 @@
 
 <script setup>
 
-</script> 
+</script>
