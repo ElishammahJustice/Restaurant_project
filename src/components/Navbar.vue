@@ -1,42 +1,43 @@
 <template>
-    <v-app-bar color="purple" >
+    <v-app-bar color="teal-darken-4" >
+
         <div>
-            <v-btn to="/" color="black" dark >Home </v-btn>
+            <v-btn to="/" color="white" dark >Home </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/about" color="black" dark >About </v-btn>
+            <v-btn to="/about" color="white" dark >About </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/contact" color="black" dark >Contact Us </v-btn>
+            <v-btn to="/contact" color="white" dark >Contact Us </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/menu" color="black" dark >Menu </v-btn>
+            <v-btn to="/menu" color="white" dark >Menu </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/restaurantList" color="black" dark >Restaurants </v-btn>
+            <v-btn to="/restaurantList" color="white" dark >Restaurants </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/booking" color="black" dark >Book a Reservation </v-btn>
+            <v-btn to="/booking" color="white" dark >Book a Reservation </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/feedback" color="black" dark >Feedback </v-btn>
+            <v-btn to="/feedback" color="white" dark >Feedback </v-btn>
 
             
         </div>
         <div>
-            <v-btn to="/order" color="black" dark >My Order </v-btn>
+            <v-btn to="/order" color="white" dark >My Order </v-btn>
 
             
         </div>
