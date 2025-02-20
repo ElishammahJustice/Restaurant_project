@@ -1,4 +1,11 @@
 <template>
+     <v-container>
+        <v-card color="teal-darken-4" >
+            <v-card-title>
+                <div class="text-h3">Our Menu</div>
+            </v-card-title>
+        </v-card>
+    </v-container>
    <v-container>
         <v-card class="mx-auto" elevation="24">
             <v-container>
