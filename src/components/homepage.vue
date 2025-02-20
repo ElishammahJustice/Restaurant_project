@@ -57,7 +57,7 @@
                     <v-img height="200px" src="../public/brunchov.jpg" cover ></v-img>
 
                     <v-card-text>
-                        Uncork the joy with our new Wine Tasting Experience! Savor a curated selection of fine wines paired with a complimentary gourmet meal. Perfect for wine lovers and foodies alike—elevate your evening with us!
+                        Uncork the joy with our new Wine Tasting Experience! Savor a curated selection of fine wines paired with a complimentary gourmet meal. —elevate your evening with us!
                     </v-card-text>
                     </v-card>
                     <v-card color="teal-darken-4">
@@ -69,7 +69,7 @@
                     <v-img height="200px" src="../public/happy hour.jpg" cover ></v-img>
 
                     <v-card-text>
-                        Cheers to good times! Join us for Happy Hour and enjoy handcrafted cocktails at irresistible prices. Perfect for unwinding after work or kicking off your night—every sip is a celebration!
+                        Cheers to good times! Join us for Happy Hour and enjoy handcrafted cocktails at irresistible prices. including our Custom-Tailored Cocktails made just for you. Perfect for unwinding after work or kicking off your night—every sip is a celebration!
                     </v-card-text>
                     </v-card>
                 </v-card>
@@ -87,7 +87,7 @@
                     <v-img height="200px" src="../public/vanishake.jpg" cover ></v-img>
 
                     <v-card-text>
-                        Treat yourself to our heavenly Vanilla Fudge Sundae! Creamy vanilla ice cream, drizzled with warm, gooey fudge, and topped with whipped cream and a cherry. A classic dessert that’s pure indulgence in every bite!
+                        Treat yourself to our heavenly Vanilla Fudge Sundae! Creamy vanilla ice cream. topped with waffles .A classic dessert that’s pure indulgence in every bite!
                     </v-card-text>
                         </v-card>
                         <v-card color="teal-darken-4">
