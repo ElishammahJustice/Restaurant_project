@@ -5,7 +5,6 @@
     <v-carousel-item src="../public/dinner.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/garden side.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/chef.jpg" cover> </v-carousel-item>
-    
     <v-carousel-item src="../public/sitting area.jpg" cover> </v-carousel-item>
 </v-carousel>
 
