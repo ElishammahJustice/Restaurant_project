@@ -2,10 +2,11 @@
    <v-card class="mx-auto" elevation="24">
 
 <v-carousel hide-delimiters>
-    <v-carousel-item src="../public/dinner.jpg" cover> </v-carousel-item>
+    <v-carousel-item src="../public/open.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/garden side.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/chef.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/sitting area.jpg" cover> </v-carousel-item>
+    <v-carousel-item src="../public/dinner.jpg" cover> </v-carousel-item>
 </v-carousel>
 
 </v-card>
@@ -17,7 +18,7 @@
                     <v-card>
                         <v-card color="teal-darken-4">
                             <v-card-item>
-                                <v-card-title>Chocoshake</v-card-title>
+                                <v-card-title color="black">Chocoshake</v-card-title>
 
                                 <v-card-subtitle>Delightful and creamy</v-card-subtitle>
                             </v-card-item>
