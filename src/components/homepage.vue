@@ -1,7 +1,7 @@
 <template>
    <v-card class="mx-auto" elevation="24">
 
-<v-carousel hide-delimiters>
+<v-carousel hide-delimiters cycle>
     <v-carousel-item src="../public/open.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/garden side.jpg" cover> </v-carousel-item>
     <v-carousel-item src="../public/chef.jpg" cover> </v-carousel-item>

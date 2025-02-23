@@ -21,21 +21,16 @@
 
             
         </div>
-        <div>
-            <v-btn to="/restaurantList" color="white" dark >Restaurants </v-btn>
-
-            
-        </div>
+      
         <div>
             <v-btn to="/booking" color="white" dark >Book a Reservation </v-btn>
 
             
         </div>
-        <div>
-            <v-btn to="/feedback" color="white" dark >Feedback </v-btn>
+       
 
             
-        </div>
+        
         <div>
             <v-btn to="/order" color="white" dark >My Order </v-btn>
 
